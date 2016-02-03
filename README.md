@@ -2,7 +2,7 @@
 
 Small project to share quick&dirty Fritzing parts I created.
 
-Every improvement is wellcome !
+Every improvement is welcome !
 
 ## WeMos_D1_Mini.fzpz
 
